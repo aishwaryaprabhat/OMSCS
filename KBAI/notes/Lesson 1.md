@@ -2,7 +2,7 @@
 tags: [Notebooks/KBAI]
 title: Lesson 1
 created: '2020-08-30T01:33:58.290Z'
-modified: '2020-08-30T08:37:59.117Z'
+modified: '2020-08-30T09:27:07.909Z'
 ---
 
 # Lesson 1
@@ -25,6 +25,25 @@ modified: '2020-08-30T08:37:59.117Z'
   - How can an agent solve a new problem?
 - Problem solving, reasoning and learing are complex but explanation and justification are even more complex
   - How can we get an agent to ever explain or justify its decisions?
+
+## Characteristics of AI Problems
+-  Knoweldge (data) often arrives incrmentally
+- Problems exhibit recurring patterns
+- Problems have multiple levels of granularity
+- Many problems are computationally intractable
+- The world is dynamic but the knowledge of the world is static
+- The world is open-ended but the knowledge is limited
+
+## Characteristics of AI Agents
+- Agents have limited computing power
+- Agents have limited sensors
+- Agents have limited attention
+- Computational logic is fundamentally deductive
+- AI agents' knowledge is incomplete relative to the world
+
+## What are AI Problems?
+![](@attachment/delib.png)
+
 
 
 
